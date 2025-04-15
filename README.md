@@ -29,7 +29,7 @@ To install and run the Medical GAS Project, follow these steps:
 
 ## Project Files
 
-This project contains several important files:
+This project contains several files:
 
 - `main.cpp`: This is the main file where the program starts. It initializes the necessary classes and starts the main loop.
 
